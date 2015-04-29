@@ -1,6 +1,11 @@
+# ================================================================================
 # Statistical analysis for manuscript:
 # A.L. Silva, A.L. Maravilha, J.A. Ramirez, J.-Y. Potvin, F.Campelo
 # One-Dimensional Loading Capacitated Vehicle Routing Problem with Multiple Stacks
+# 
+# Analysis by F. Campelo (fcampelo@ufmg.br, fcampelo@gmail.com)
+# Belo Horizonte, Brazil - April 29, 2015
+# ================================================================================
 
 # Load data
 data <- read.table("../data/algo.txt",
