@@ -1,0 +1,1290 @@
+
+======================================
+
+otimo_distance:384.19
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 14, 16, 
+STACKS:
+STACK 0: 12:0, 20:0, 17:0, 16:0, 
+STACK 1: 15:0, 21:0, 14:0, 
+STACK 2: 18:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 13, 11, 3, 2, 4, 
+STACKS:
+STACK 16: 19:0, 13:0, 2:0, 4:0, 
+STACK 17: 11:0, 3:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:384.19
+
+ROUTE0:
+14, 12, 15, 18, 20, 21, 19, 17, 
+STACKS:
+STACK 0: 14:0, 12:0, 15:0, 20:0, 19:0, 
+STACK 1: 21:0, 17:0, 
+STACK 2: 18:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+16, 13, 11, 3, 2, 4, 
+STACKS:
+STACK 16: 11:0, 3:0, 2:0, 4:0, 
+STACK 17: 16:0, 13:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:402.022
+
+ROUTE0:
+12, 15, 14, 17, 20, 21, 19, 16, 
+STACKS:
+STACK 0: 12:0, 15:0, 14:0, 20:0, 19:0, 
+STACK 1: 17:0, 21:0, 
+STACK 2: 16:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+18, 9, 5, 7, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 18:0, 9:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 1, 2, 
+STACKS:
+STACK 16: 11:0, 3:0, 4:0, 1:0, 
+STACK 17: 13:0, 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:402.022
+
+ROUTE0:
+12, 15, 14, 17, 20, 21, 19, 16, 
+STACKS:
+STACK 0: 12:0, 15:0, 14:0, 20:0, 19:0, 
+STACK 1: 17:0, 21:0, 
+STACK 2: 16:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+18, 9, 5, 7, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 18:0, 9:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 1, 2, 
+STACKS:
+STACK 16: 11:0, 3:0, 4:0, 1:0, 
+STACK 17: 13:0, 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:402.022
+
+ROUTE0:
+12, 15, 14, 17, 20, 21, 19, 16, 
+STACKS:
+STACK 0: 12:0, 15:0, 14:0, 20:0, 19:0, 
+STACK 1: 17:0, 21:0, 
+STACK 2: 16:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+18, 9, 5, 7, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 18:0, 9:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 1, 2, 
+STACKS:
+STACK 16: 11:0, 3:0, 4:0, 1:0, 
+STACK 17: 13:0, 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:402.022
+
+ROUTE0:
+12, 15, 14, 17, 20, 21, 19, 16, 
+STACKS:
+STACK 0: 12:0, 15:0, 14:0, 20:0, 19:0, 
+STACK 1: 17:0, 21:0, 
+STACK 2: 16:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+18, 9, 5, 7, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 18:0, 9:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 1, 2, 
+STACKS:
+STACK 16: 11:0, 3:0, 4:0, 1:0, 
+STACK 17: 13:0, 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:402.022
+
+ROUTE0:
+12, 15, 14, 17, 20, 21, 19, 16, 
+STACKS:
+STACK 0: 12:0, 15:0, 14:0, 20:0, 19:0, 
+STACK 1: 17:0, 21:0, 
+STACK 2: 16:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+18, 9, 5, 7, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 18:0, 9:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 1, 2, 
+STACKS:
+STACK 16: 11:0, 3:0, 4:0, 1:0, 
+STACK 17: 13:0, 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:402.022
+
+ROUTE0:
+12, 15, 14, 17, 20, 21, 19, 16, 
+STACKS:
+STACK 0: 12:0, 15:0, 14:0, 20:0, 19:0, 
+STACK 1: 17:0, 21:0, 
+STACK 2: 16:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+18, 9, 5, 7, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 18:0, 9:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 1, 2, 
+STACKS:
+STACK 16: 11:0, 3:0, 4:0, 1:0, 
+STACK 17: 13:0, 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:396.052
+
+ROUTE0:
+12, 14, 17, 18, 20, 21, 19, 16, 
+STACKS:
+STACK 0: 12:0, 14:0, 18:0, 20:0, 19:0, 
+STACK 1: 17:0, 21:0, 
+STACK 2: 16:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+15, 5, 9, 7, 6, 8, 10, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 15:0, 9:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+1, 2, 4, 3, 11, 13, 
+STACKS:
+STACK 16: 1:0, 2:0, 4:0, 3:0, 
+STACK 17: 11:0, 13:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:423.364
+
+ROUTE0:
+12, 15, 18, 20, 17, 21, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+7, 5, 2, 1, 6, 8, 10, 
+STACKS:
+STACK 8: 7:0, 2:0, 6:0, 8:0, 
+STACK 9: 5:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 9, 4, 3, 11, 
+STACKS:
+STACK 16: 19:0, 9:0, 4:0, 11:0, 
+STACK 17: 3:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:423.364
+
+ROUTE0:
+12, 15, 18, 20, 17, 21, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+7, 5, 2, 1, 6, 8, 10, 
+STACKS:
+STACK 8: 7:0, 2:0, 6:0, 8:0, 
+STACK 9: 5:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 9, 4, 3, 11, 
+STACKS:
+STACK 16: 19:0, 9:0, 4:0, 11:0, 
+STACK 17: 3:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:423.364
+
+ROUTE0:
+12, 15, 18, 20, 17, 21, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+7, 5, 2, 1, 6, 8, 10, 
+STACKS:
+STACK 8: 7:0, 2:0, 6:0, 8:0, 
+STACK 9: 5:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 9, 4, 3, 11, 
+STACKS:
+STACK 16: 19:0, 9:0, 4:0, 11:0, 
+STACK 17: 3:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:423.364
+
+ROUTE0:
+12, 15, 18, 20, 17, 21, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+7, 5, 2, 1, 6, 8, 10, 
+STACKS:
+STACK 8: 7:0, 2:0, 6:0, 8:0, 
+STACK 9: 5:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 9, 4, 3, 11, 
+STACKS:
+STACK 16: 19:0, 9:0, 4:0, 11:0, 
+STACK 17: 3:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:423.364
+
+ROUTE0:
+12, 15, 18, 20, 17, 21, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+7, 5, 2, 1, 6, 8, 10, 
+STACKS:
+STACK 8: 7:0, 2:0, 6:0, 8:0, 
+STACK 9: 5:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 9, 4, 3, 11, 
+STACKS:
+STACK 16: 19:0, 9:0, 4:0, 11:0, 
+STACK 17: 3:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:456.913
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 4:0, 3:0, 
+STACK 17: 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:456.913
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 4:0, 3:0, 
+STACK 17: 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:456.913
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 4:0, 3:0, 
+STACK 17: 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:456.913
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 4:0, 3:0, 
+STACK 17: 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:456.913
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 4:0, 3:0, 
+STACK 17: 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:456.913
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 4:0, 3:0, 
+STACK 17: 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:456.913
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 4:0, 3:0, 
+STACK 17: 2:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:453.958
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 2:0, 3:0, 
+STACK 17: 4:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:453.958
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 2:0, 3:0, 
+STACK 17: 4:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:453.958
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 2:0, 3:0, 
+STACK 17: 4:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:453.958
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 2:0, 3:0, 
+STACK 17: 4:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:453.958
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 2:0, 3:0, 
+STACK 17: 4:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:453.958
+
+ROUTE0:
+12, 15, 18, 20, 21, 17, 16, 13, 14, 
+STACKS:
+STACK 0: 17:0, 16:0, 14:0, 
+STACK 1: 12:0, 15:0, 18:0, 20:0, 
+STACK 2: 21:0, 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 1, 6, 10, 8, 
+STACKS:
+STACK 8: 5:0, 7:0, 6:0, 8:0, 
+STACK 9: 9:0, 1:0, 10:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+19, 11, 4, 2, 3, 
+STACKS:
+STACK 16: 19:0, 11:0, 2:0, 3:0, 
+STACK 17: 4:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:423.975
+
+ROUTE0:
+15, 12, 4, 13, 20, 18, 21, 17, 
+STACKS:
+STACK 0: 15:0, 4:0, 21:0, 
+STACK 1: 12:0, 20:0, 18:0, 17:0, 
+STACK 2: 13:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+9, 5, 7, 6, 10, 8, 11, 
+STACKS:
+STACK 8: 5:0, 6:0, 10:0, 11:0, 
+STACK 9: 9:0, 7:0, 8:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+2, 3, 1, 14, 16, 19, 
+STACKS:
+STACK 16: 2:0, 3:0, 1:0, 14:0, 19:0, 
+STACK 17: 16:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:352.775
+
+ROUTE0:
+16, 14, 12, 15, 18, 21, 20, 17, 
+STACKS:
+STACK 0: 12:0, 15:0, 18:0, 20:0, 
+STACK 1: 16:0, 14:0, 21:0, 
+STACK 2: 17:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+19, 7, 9, 5, 1, 2, 
+STACKS:
+STACK 8: 19:0, 7:0, 9:0, 5:0, 1:0, 
+STACK 9: 2:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 6, 8, 10, 
+STACKS:
+STACK 16: 11:0, 3:0, 6:0, 
+STACK 17: 13:0, 4:0, 8:0, 10:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
+
+======================================
+
+otimo_distance:352.775
+
+ROUTE0:
+16, 14, 12, 15, 18, 21, 20, 17, 
+STACKS:
+STACK 0: 12:0, 15:0, 18:0, 20:0, 
+STACK 1: 16:0, 14:0, 21:0, 
+STACK 2: 17:0, 
+STACK 3: 
+STACK 4: 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+19, 7, 9, 5, 1, 2, 
+STACKS:
+STACK 8: 19:0, 7:0, 9:0, 5:0, 1:0, 
+STACK 9: 2:0, 
+STACK 10: 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+13, 11, 3, 4, 6, 8, 10, 
+STACKS:
+STACK 16: 11:0, 3:0, 6:0, 
+STACK 17: 13:0, 4:0, 8:0, 10:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+

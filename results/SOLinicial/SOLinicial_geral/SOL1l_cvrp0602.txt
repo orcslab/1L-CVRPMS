@@ -1,0 +1,43 @@
+
+======================================
+
+otimo_distance:423.994
+
+ROUTE0:
+10, 12, 15, 18, 20, 17, 16, 14, 
+STACKS:
+STACK 0: 20:0, 17:1, 17:0, 16:0, 14:0, 
+STACK 1: 15:1, 18:0, 20:1, 
+STACK 2: 15:0, 18:1, 
+STACK 3: 12:1, 12:0, 
+STACK 4: 10:0, 
+STACK 5: 
+STACK 6: 
+STACK 7: 
+
+
+ROUTE1:
+3, 1, 2, 9, 5, 7, 6, 8, 
+STACKS:
+STACK 8: 2:1, 7:0, 6:1, 6:0, 8:0, 
+STACK 9: 9:0, 5:0, 7:1, 
+STACK 10: 3:0, 1:1, 1:0, 2:0, 9:1, 
+STACK 11: 
+STACK 12: 
+STACK 13: 
+STACK 14: 
+STACK 15: 
+
+
+ROUTE2:
+21, 19, 13, 11, 4, 
+STACKS:
+STACK 16: 21:0, 13:1, 13:0, 11:0, 4:0, 
+STACK 17: 19:1, 19:0, 
+STACK 18: 
+STACK 19: 
+STACK 20: 
+STACK 21: 
+STACK 22: 
+STACK 23: 
+
